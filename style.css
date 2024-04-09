@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  text-align: center;
+  background-color: lightslategray;
+}
+
+h1 {
+  border: 5px red solid;
+  padding: 10px;
+  background-color: lemonchiffon;
+  color: red;
+}
+
+.one {
+  color: black;
+  border: 2px solid black;
+  background-color: #d08149;
+  padding: 10px;
+  margin: 3%;
+}
+
+.img1 {
+  width: 200px;
+  height: 200px;
+  border: 10px dotted #d08149;
+  padding: 10px;
+}
+
+.two {
+  color: black;
+  border: 2px solid black;
+  background-color: gold;
+  padding: 10px;
+  margin: 3%;
+}
+
+.img2 {
+  width: 200px;
+  height: 200px;
+  border: 10px dotted gold;
+  padding: 10px;
+}
+
+.three {
+  color: black;
+  border: 2px solid black;
+  background-color: lightpink;
+  padding: 10px;
+  margin: 3%;
+}
+
+.img3 {
+  width: 200px;
+  height: 200px;
+  border: 10px dotted lightpink;
+  padding: 10px;
+}
